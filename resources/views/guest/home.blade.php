@@ -4,6 +4,6 @@
 
 @section('content')
     <div class="my-content1">
-        <p>Nội dung của trang chủ</p>
+        <p>Nội dung của trang chu</p>
     </div>
 @endsection
